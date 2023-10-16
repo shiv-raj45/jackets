@@ -1,3 +1,9 @@
+import { Metadata } from "next";
+
+export const metaData: Metadata = {
+  title: "3d jackets",
+  description: "3d jackets",
+};
 export default function Home() {
   return (
     <iframe
